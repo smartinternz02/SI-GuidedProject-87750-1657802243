@@ -6,7 +6,7 @@ Total Project Zip File
 
 As we are unable to upload All the files to git we pushed it to drive and here is the link
 
-===> https://drive.google.com/file/d/1EtbNpbnWumNkZVhMMbce_pxQPZkiM6z-/view?usp=sharing
+===> https://drive.google.com/drive/folders/18eLmnpn91dDCnJS5laUinZ3EkD-JTt9Z?usp=sharing
 
 DEMO VIDEO LINK:
 
